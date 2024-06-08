@@ -1,6 +1,6 @@
 ### Olá Eu sou o Gabriel Dutra 🤘
 
-#### Estudante de Desenvolvimento de Sistemas, apaixonado por tecnologia e inovação. 
+#### Estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e inovação. 
 
 
 
