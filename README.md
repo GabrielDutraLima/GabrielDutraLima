@@ -1,6 +1,6 @@
-### Olá Eu sou o Gabriel Dutra 🤘
+### Hi i am Gabriel Dutra 🤘
 
-#### Estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e inovação. 
+#### Systems Analysis and Development, passionate about technology and innovation.
 
 
 
@@ -12,7 +12,7 @@
 ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielDutraLima&show_icons=true&theme=dracula)
 
 
-## Tecnologias em treinamento
+## Technologies of my day
 <div style="display: inline_block"><br/>
     <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
     <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
