@@ -1,4 +1,4 @@
-### Hi i am Gabriel Dutra 🤘
+### Hi... I'm Gabriel 🤘
 
 #### Systems Analysis and Development, passionate about technology and innovation.
 
