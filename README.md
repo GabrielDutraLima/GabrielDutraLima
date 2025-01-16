@@ -1,6 +1,6 @@
 # Hi... I'm Gabriel! 👋
 
-### Systems Analysis and Development | Passionate about Technology and Innovation
+### Systems Analysis and Development 
 
 ---
 
@@ -12,14 +12,6 @@ I'm a dedicated developer passionate about solving complex problems through inno
 - Exploring new tools and frameworks to stay ahead in tech
 
 ---
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)](https://www.linkedin.com/in/gabriel-dutra-269176310/)
-
-<br/>
-
-![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielDutraLima&show_icons=true&theme=dracula)
-
 
 ## 🛠️ Technologies I Use Daily
 
@@ -33,13 +25,13 @@ I'm a dedicated developer passionate about solving complex problems through inno
 
 ## 🛠️ Featured Projects
 
-- **[Mental Health Support App](#)**
-  - A mental health support platform connecting users with professionals. 
-  - *Technologies:* Java, Spring Boot, React Native
+- **[Gerenciador de Tarefas](https://github.com/GabrielDutraLima/GerenciadorDeTarefas)**
+  - A task management system to organize and prioritize tasks effectively. 
+  - *Technologies:* Java, Spring Boot.
 
-- **[People Counter ESP32](#)**
+- **[People Counter ESP32](https://github.com/GabrielDutraLima/-ESP32-Counter)**
   - A real-time system to count people and send data to a server using an ESP32.
-  - *Technologies:* Arduino IDE, MongoDB, ESP32, React Native
+  - *Technologies:* Arduino IDE, MongoDB, ESP32.
 
 ---
 
